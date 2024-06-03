@@ -19,8 +19,6 @@ import scikitplot as skplt
 from imblearn.over_sampling import RandomOverSampler
 import openai
 st.set_page_config(layout="wide")
-# Set your OpenAI API key
-
 import time
 
 # Introduction statement
